@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @coherentus, nubby in Python and developing.
-- 👀 I’m interested in Python developing.
+- 👋 Hi, I’m @coherentus, nubby in Python and development.
+- 👀 I’m interested in Python development.
 - 🌱 I’m currently learning at https://practicum.yandex.ru/
 
 
